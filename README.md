@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aung-win-latt/**
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungwinlatt)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/aungwinlatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aungwinlatt" height="30" width="40" /></a>
